@@ -1,1 +1,3 @@
 # DCGAN-SiameseNet_MNIST
+
+![DCGAN](DCGAN.png "DCGAN")
