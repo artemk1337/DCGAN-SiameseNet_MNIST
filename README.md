@@ -6,3 +6,6 @@
 
 ![Nums10x10](img-files/nums.png)
 
+### ***Model evaluation***
+
+![Dists](img-files/dist_imgs.png)
